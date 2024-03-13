@@ -9,7 +9,7 @@
 ### Instruções para Uso
 
 Consulte o código-fonte  no repositório:\
-**colocar link**
+**[GitHub crud-sequelize](https://github.com/ruthmira-1risjc/crud-sequelize.git)**
 
 ### Requisitos
 
